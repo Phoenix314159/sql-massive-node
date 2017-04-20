@@ -6,7 +6,7 @@ I'll be referring to this mini project through these instructions : https://gith
 
 ## Setup your server
 
-Get your basic server working.  Follow the steps from the mini-project to setup a server :
+Get your basic server working.dd  Follow the steps from the mini-project to setup a server :
 
 * Require and setup express and get it listening on a port
 * Require MassiveJS and Connect to a database (make a new one, or use one you've already made).
@@ -35,7 +35,8 @@ We are going to be working with a single table, products.  It's schema will look
 
 __create_product__
 
-This query will need to take the 4 parameters defined in the schema and insert a record into the database.
+This query will need to take the 4 parameters defined in the schema and insert a
+record into the database.
 
 __read_products__
 
